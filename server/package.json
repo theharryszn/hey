@@ -1,0 +1,16 @@
+{
+  "name": "hey-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/OpeAbidemi/hey.git",
+  "author": "Ope Abidemi",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "apollo-server": "^3.10.0",
+    "graphql": "^16.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.5"
+  }
+}
